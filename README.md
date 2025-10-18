@@ -25,7 +25,9 @@ Hoje, meu foco é criar soluções que transformam dados em ação. Especializad
 
 Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união entre pessoas, dados e processos inteligentes.
 
-### 🤖 Redes Sociais
+<br/><br/>
+
+### 📲 Redes Sociais
 
 <p align="center
 ">
@@ -50,6 +52,8 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 </p>
 
 ---
+
+<br/><br/>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -128,32 +132,65 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
     src="https://static.vecteezy.com/system/resources/previews/021/495/993/non_2x/chatgpt-openai-logo-icon-free-png.png" 
 />
 </p>
+<br/><br/>
 
 ### 🎓 Cursos e Certificados
 
--  **Qlik Sense Business Analyst Qualification 2024**<br/>
-    Link do Certificado: https://www.credly.com/badges/57d0735a-56ec-4604-87cc-86a209181452/linked_in_profile
--  **Fundação Bradesco: Microsoft Excel 2016 - Avançado**<br/>
-    Link do Certificado: https://drive.google.com/file/d/1pUBLMKRYXTG_fRqG08MNxrKU_dHf62jr/view
--  **Fundação Bradesco: Microsoft PowerPoint 2016 - Avançado**<br/>
-    Link do Certificado: https://drive.google.com/file/d/1pbKS8ht12OS8G33xdmmBe58uVjopfyI5/view
--  **Yoshida Qlik: Mago dos Dados**<br/>
-    Link do Certificado: https://drive.google.com/file/d/1PaKEdmVR2Kfs90F9QguX4JlkDDCTRREp/view
--  **Curso Completo de Power BI**<br/>
-    Link do Certificado: https://drive.google.com/file/d/1-034mvIDzbyDzffqvziP6o3MF9Yvm3zV/view
--  **Curso Microsoft Excel Expert**<br/>
-    Link do Certificado: https://drive.google.com/file/d/1qCYpvMA8ORdCppZyK8k8fVN8lbpSfdGx/view
--  **Curso Power BI Expert para Data Science e Analytics**<br/>
-    Link do Certificado: https://drive.google.com/file/d/1-5QFXW3FB-XINR3VWZOt81qnIMUqtnJE/view
--  **Formação Alura: Power BI**<br/>
-    Link do Certificado: https://cursos.alura.com.br/degree/certificate/904f209e-e47d-4f8a-8a93-51fcd7106c8b
--  **Formação Alura: Qlik Sense**<br/>
-    Link do Certificado: https://cursos.alura.com.br/degree/certificate/009b7315-ba65-4f2e-94bf-b5fd6a4dd1e6
--  **Formação Alura: Google Looker Studio**<br/>
-    Link do Certificado: https://cursos.alura.com.br/degree/certificate/b75006af-50fc-4345-bc66-a041be6a968f
--  **Formação Alura: Modelagem de Dados**<br/>
-    Link do Certificado: https://cursos.alura.com.br/degree/certificate/89bf32ba-2592-4669-98fa-fb2e590c9334
--  **Autotic Academy: Intensivão N8N**<br/>
-    Link do Certificado: https://academy.autotic.com.br/verificar/ehWhaOs4Fa/
+<br/>
+
+<style>
+  .certifications-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px; /* Espaço entre as colunas */
+  }
+  .certifications-column {
+    flex: 1;
+    min-width: 300px; /* Garante que as colunas não fiquem muito estreitas */
+  }
+  .certifications-column h3 {
+    border-bottom: 2px solid #0077B5; /* Linha azul igual à do LinkedIn */
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+  .certifications-column ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .certifications-column li {
+    margin-bottom: 15px;
+  }
+  .certifications-column a {
+    text-decoration: none;
+    color: #FFFFFF; /* Cor do texto, ajuste se o seu fundo for claro */
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  .certifications-column a:hover {
+    color: #00A0DC; /* Cor ao passar o mouse */
+    text-decoration: underline;
+  }
+</style>
+
+<div class="certifications-container">
+  <div class="certifications-column">
+    <ul>
+      <li><a href="https://www.credly.com/badges/57d0735a-56ec-4604-87cc-86a209181452/linked_in_profile" target="_blank" rel="noopener noreferrer">✅ Qlik Sense Business Analyst 2024</a></li>
+      <li><a href="https://cursos.alura.com.br/degree/certificate/009b7315-ba65-4f2e-94bf-b5fd6a4dd1e6" target="_blank" rel="noopener noreferrer">✅ Formação Alura: Qlik Sense</a></li>
+      <li><a href="https://cursos.alura.com.br/degree/certificate/904f209e-e47d-4f8a-8a93-51fcd7106c8b" target="_blank" rel="noopener noreferrer">✅ Formação Alura: Power BI</a></li>
+      <li><a href="https://cursos.alura.com.br/degree/certificate/b75006af-50fc-4345-bc66-a041be6a968f" target="_blank" rel="noopener noreferrer">✅ Formação Alura: Google Looker Studio</a></li>
+      <li><a href="https://cursos.alura.com.br/degree/certificate/89bf32ba-2592-4669-98fa-fb2e590c9334" target="_blank" rel="noopener noreferrer">✅ Formação Alura: Modelagem de Dados</a></li>
+      <li><a href="https://academy.autotic.com.br/verificar/ehWhaOs4Fa/" target="_blank" rel="noopener noreferrer">✅ Autotic Academy: Intensivão N8N</a></li>
+      <li><a href="https://drive.google.com/file/d/1PaKEdmVR2Kfs90F9QguX4JlkDDCTRREp/view" target="_blank" rel="noopener noreferrer">✅ Yoshida Qlik: Mago dos Dados</a></li>
+      <li><a href="https://drive.google.com/file/d/1-5QFXW3FB-XINR3VWZOt81qnIMUqtnJE/view" target="_blank" rel="noopener noreferrer">✅ Power BI Expert para Data Science</a></li>
+      <li><a href="https://drive.google.com/file/d/1-034mvIDzbyDzffqvziP6o3MF9Yvm3zV/view" target="_blank" rel="noopener noreferrer">✅ Curso Completo de Power BI</a></li>
+      <li><a href="https://drive.google.com/file/d/1pUBLMKRYXTG_fRqG08MNxrKU_dHf62jr/view" target="_blank" rel="noopener noreferrer">✅ Fundação Bradesco: Excel Avançado</a></li>
+       <li><a href="https://drive.google.com/file/d/1qCYpvMA8ORdCppZyK8k8fVN8lbpSfdGx/view" target="_blank" rel="noopener noreferrer">✅ Curso Microsoft Excel Expert</a></li>
+      <li><a href="https://drive.google.com/file/d/1pbKS8ht12OS8G33xdmmBe58uVjopfyI5/view" target="_blank" rel="noopener noreferrer">✅ Fundação Bradesco: PowerPoint Avançado</a></li>
+    </ul>
+  </div>
+</div>
+
+
 <br/>
 <br/>
