@@ -134,6 +134,30 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 </p>
 <br/><br/>
 
+### 🎓 Formação Academica
+
+<div>
+  <ul>
+    <li>
+      ✅ MBA em Business Intelligence - Faculdade Pitagoras (2024)
+    </li>
+    <li>
+      ✅ MBA em Inteligência Artificial e Big Data - Faculdade Pitagoras (2024)
+    </li>
+    <li>
+      ✅ Análise e Desenvolvimento de Sistemas - Faculdade Pitagoras (2022-2024)
+    </li>
+    <li>
+      ✅ Bacharelado em Engenharia Mecânica - Faculdade Pitagoras (2014-2019)
+    </li>
+    <li>
+      ✅ Técnico em Eletromecânica - SENAI (2012-2013)
+    </li>
+  </ul>
+</div>
+
+<br/><br/>
+
 ### 🎓 Cursos e Certificados
 
 <br/>
@@ -156,7 +180,6 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
     </ul>
   </div>
 </div>
-
 
 <br/>
 <br/>
