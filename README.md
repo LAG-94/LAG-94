@@ -73,8 +73,8 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 />
 <img 
     align="middle" 
-    alt="N8N" 
-    title="N8N"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png" 
@@ -85,7 +85,7 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
     title="N8N"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/39/2/google-looker-logo-png_seeklogo-394597.png" 
+    src="https://www.svgrepo.com/show/354012/looker-icon.svg" 
 />
 <img 
     align="middle" 
