@@ -1,8 +1,27 @@
-# 👩🏻‍💻 Lucas Alves Gonçalves
+# 👨🏽‍💻 Lucas Alves Gonçalves
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados/BI Pleno`**<br/>
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Lucas Alves Gonçalves, 31 anos, Analista de Dados BI Pleno, apaixonado por tecnologia, automação de processos e gestão de pessoas. Minha carreira foi construída sobre uma base sólida de experiências diversas, que me levaram a encontrar meu propósito na intersecção entre dados, Inteligência Artificial e estratégia de negócios.
+
+Comecei minha jornada profissional aos 16 anos, atuando em comércio e atendimento ao cliente, onde desenvolvi habilidades essenciais de comunicação e liderança. Essa base me impulsionou para cargos de gestão, como Supervisor de Call Center e Coordenador de Back Office, nos quais aprimorei competências em:
+
+➡️ Gestão de indicadores e performance (COPC)<br/>
+➡️ Ciclo PDCA (Plan, Do, Check, Act)<br/>
+➡️ Treinamento e desenvolvimento de equipes<br/>
+➡️ Otimização de processos e qualidade<br/>
+
+A paixão por tecnologia, que floresceu durante o curso de Engenharia Mecânica e se consolidou na graduação em Análise e Desenvolvimento de Sistemas, me guiou para uma transição de carreira. Em 2023, entrei na área de Business Intelligence e, após quatro promoções, assumi minha posição atual.
+
+Hoje, meu foco é criar soluções que transformam dados em ação. Especializado em automação com n8n e no desenvolvimento de Inteligência Artificial, sou responsável por:
+
+✅ Desenvolver e implementar chatbots com IA para a equipe de Inteligência de Vendas, fornecendo insights em tempo real e otimizando a performance comercial.<br/>
+✅ Criar automações de processos ponta a ponta utilizando n8n, integrando sistemas e eliminando tarefas manuais para aumentar a eficiência operacional.<br/>
+✅ Analisar dados e construir dashboards com ferramentas como Excel, Qlik Sense, SQL e Python para apoiar a tomada de decisão estratégica.<br/>
+
+🔍 Meu objetivo é continuar aprofundando meus conhecimentos em Inteligência Artificial e automação, combinando tecnologia e gestão para gerar valor e impulsionar o crescimento das empresas.
+
+Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união entre pessoas, dados e processos inteligentes.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
