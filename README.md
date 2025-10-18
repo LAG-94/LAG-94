@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Lucas Alves Gonçalves
 
 **`Desenvolvedora FullStack`**
 
