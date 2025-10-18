@@ -81,48 +81,48 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 />
 <img 
     align="middle" 
-    alt="N8N" 
-    title="N8N"
+    alt="Looker" 
+    title="Looker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/354012/looker-icon.svg" 
 />
 <img 
     align="middle" 
-    alt="N8N" 
-    title="N8N"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" 
 />
 <img 
     align="middle" 
-    alt="N8N" 
-    title="N8N"
+    alt="Qlik Sense" 
+    title="Qlik Sense"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://logosandtypes.com/wp-content/uploads/2024/01/qlik-old.svg" 
 />
 <img 
     align="middle" 
-    alt="N8N" 
-    title="N8N"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
 />
 <img 
     align="middle" 
-    alt="N8N" 
-    title="N8N"
+    alt="Evolution API" 
+    title="Evolution API"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://meta-q.cdn.bubble.io/f1735656025985x589899456761148800/evolution-logo.png" 
 />
 <img 
     align="middle" 
-    alt="N8N" 
-    title="N8N"
+    alt="ChatGPT" 
+    title="ChatGPT"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://static.vecteezy.com/system/resources/previews/021/495/993/non_2x/chatgpt-openai-logo-icon-free-png.png" 
