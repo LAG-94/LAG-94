@@ -25,7 +25,7 @@ Hoje, meu foco é criar soluções que transformam dados em ação. Especializad
 
 Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união entre pessoas, dados e processos inteligentes.
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -53,9 +53,9 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
     </a>
 </p>
 
----
+<br/>
 
-<br/><br/>
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -134,7 +134,8 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
     src="https://static.vecteezy.com/system/resources/previews/021/495/993/non_2x/chatgpt-openai-logo-icon-free-png.png" 
 />
 </p>
-<br/><br/>
+
+<br/>
 
 ---
 
@@ -160,7 +161,7 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
   </ul>
 </div>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -187,8 +188,7 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
   </div>
 </div>
 
----
+<br/>
 
-<br/>
-<br/>
+---
 
