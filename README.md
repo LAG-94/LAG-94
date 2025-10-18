@@ -138,40 +138,6 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 
 <br/>
 
-<style>
-  .certifications-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 30px; /* Espaço entre as colunas */
-  }
-  .certifications-column {
-    flex: 1;
-    min-width: 300px; /* Garante que as colunas não fiquem muito estreitas */
-  }
-  .certifications-column h3 {
-    border-bottom: 2px solid #0077B5; /* Linha azul igual à do LinkedIn */
-    padding-bottom: 5px;
-    margin-bottom: 15px;
-  }
-  .certifications-column ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  .certifications-column li {
-    margin-bottom: 15px;
-  }
-  .certifications-column a {
-    text-decoration: none;
-    color: #FFFFFF; /* Cor do texto, ajuste se o seu fundo for claro */
-    font-weight: bold;
-    transition: color 0.3s;
-  }
-  .certifications-column a:hover {
-    color: #00A0DC; /* Cor ao passar o mouse */
-    text-decoration: underline;
-  }
-</style>
-
 <div class="certifications-container">
   <div class="certifications-column">
     <ul>
