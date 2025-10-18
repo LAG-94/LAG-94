@@ -2,6 +2,8 @@
 
 **`Analista de Dados/BI Pleno`**<br/>
 
+### 🤖 Sobre
+
 Me chamo Lucas Alves Gonçalves, 31 anos, Analista de Dados BI Pleno, apaixonado por tecnologia, automação de processos e gestão de pessoas. Minha carreira foi construída sobre uma base sólida de experiências diversas, que me levaram a encontrar meu propósito na intersecção entre dados, Inteligência Artificial e estratégia de negócios.
 
 Comecei minha jornada profissional aos 16 anos, atuando em comércio e atendimento ao cliente, onde desenvolvi habilidades essenciais de comunicação e liderança. Essa base me impulsionou para cargos de gestão, como Supervisor de Call Center e Coordenador de Back Office, nos quais aprimorei competências em:
@@ -23,34 +25,27 @@ Hoje, meu foco é criar soluções que transformam dados em ação. Especializad
 
 Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união entre pessoas, dados e processos inteligentes.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+### 🤖 Redes Sociais
+
+<p align="center
+">
+    <a href="https://www.linkedin.com/in/lucas-a-goncalves/" target="_blank">
+    <img 
+        alt="LinkedIn"
+        title="Conecte-se comigo no LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.instagram.com/lucascphd/" target="_blank">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+        alt="Instagram"
+        title="Siga-me no Instagram"
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://wa.me/5533991133207" target="_blank">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        alt="WhatsApp"
+        title="Fale comigo no WhatsApp"
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
 
@@ -58,138 +53,82 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="center
+">
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
+    align="middle" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LAG-94&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAG-94&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" 
+/>
+<img 
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png" 
+/>
+<img 
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.seeklogo.com/logo-png/39/2/google-looker-logo-png_seeklogo-394597.png" 
+/>
+<img 
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" 
+/>
+<img 
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://logosandtypes.com/wp-content/uploads/2024/01/qlik-old.svg" 
+/>
+<img 
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
+/>
+<img 
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://meta-q.cdn.bubble.io/f1735656025985x589899456761148800/evolution-logo.png" 
+/>
+<img 
+    align="middle" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://static.vecteezy.com/system/resources/previews/021/495/993/non_2x/chatgpt-openai-logo-icon-free-png.png" 
+/>
 </p>
+
+
+<br/>
+<br/>
