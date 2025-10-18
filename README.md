@@ -129,6 +129,31 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 />
 </p>
 
+### 🎓 Cursos e Certificados
 
+-  **Qlik Sense Business Analyst Qualification 2024**<br/>
+    Link do Certificado: https://www.credly.com/badges/57d0735a-56ec-4604-87cc-86a209181452/linked_in_profile
+-  **Fundação Bradesco: Microsoft Excel 2016 - Avançado**<br/>
+    Link do Certificado: https://drive.google.com/file/d/1pUBLMKRYXTG_fRqG08MNxrKU_dHf62jr/view
+-  **Fundação Bradesco: Microsoft PowerPoint 2016 - Avançado**<br/>
+    Link do Certificado: https://drive.google.com/file/d/1pbKS8ht12OS8G33xdmmBe58uVjopfyI5/view
+-  **Yoshida Qlik: Mago dos Dados**<br/>
+    Link do Certificado: https://drive.google.com/file/d/1PaKEdmVR2Kfs90F9QguX4JlkDDCTRREp/view
+-  **Curso Completo de Power BI**<br/>
+    Link do Certificado: https://drive.google.com/file/d/1-034mvIDzbyDzffqvziP6o3MF9Yvm3zV/view
+-  **Curso Microsoft Excel Expert**<br/>
+    Link do Certificado: https://drive.google.com/file/d/1qCYpvMA8ORdCppZyK8k8fVN8lbpSfdGx/view
+-  **Curso Power BI Expert para Data Science e Analytics**<br/>
+    Link do Certificado: https://drive.google.com/file/d/1-5QFXW3FB-XINR3VWZOt81qnIMUqtnJE/view
+-  **Formação Alura: Power BI**<br/>
+    Link do Certificado: https://cursos.alura.com.br/degree/certificate/904f209e-e47d-4f8a-8a93-51fcd7106c8b
+-  **Formação Alura: Qlik Sense**<br/>
+    Link do Certificado: https://cursos.alura.com.br/degree/certificate/009b7315-ba65-4f2e-94bf-b5fd6a4dd1e6
+-  **Formação Alura: Google Looker Studio**<br/>
+    Link do Certificado: https://cursos.alura.com.br/degree/certificate/b75006af-50fc-4345-bc66-a041be6a968f
+-  **Formação Alura: Modelagem de Dados**<br/>
+    Link do Certificado: https://cursos.alura.com.br/degree/certificate/89bf32ba-2592-4669-98fa-fb2e590c9334
+-  **Autotic Academy: Intensivão N8N**<br/>
+    Link do Certificado: https://academy.autotic.com.br/verificar/ehWhaOs4Fa/
 <br/>
 <br/>
