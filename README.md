@@ -27,6 +27,8 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 
 <br/><br/>
 
+---
+
 ### 📲 Redes Sociais
 
 <p align="center
@@ -134,6 +136,8 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 </p>
 <br/><br/>
 
+---
+
 ### 🎓 Formação Academica
 
 <div>
@@ -158,6 +162,8 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
 
 <br/><br/>
 
+---
+
 ### 🎓 Cursos e Certificados
 
 <br/>
@@ -181,5 +187,8 @@ Estou sempre aprendendo e acredito que a verdadeira inovação nasce da união e
   </div>
 </div>
 
+---
+
 <br/>
 <br/>
+
